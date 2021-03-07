@@ -1,0 +1,15 @@
+{
+	"apiVersion": 2,
+	"name": "create-block/arlo-demo-block",
+	"title": "Arlo Demo Block",
+	"category": "widgets",
+	"icon": "list-view",
+	"description": "Arlo Demo Block.",
+	"textdomain": "arlo-demo-block",
+	"supports": {
+		"html": true
+	},
+	"editorScript": "file:./build/index.js",
+	"editorStyle": "file:./build/index.css",
+	"style": "file:./build/style-index.css"
+}
